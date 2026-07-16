@@ -5,6 +5,7 @@ author: "Chandru Narayan"
 categories: documentation
 tags: [documentation, resources]
 image: m81.jpg
+featured-post: true
 ---
 
 # Millenial Jekyll theme
