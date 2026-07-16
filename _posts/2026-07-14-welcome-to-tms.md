@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to The Meenakshi School!"
 author: "Chandru Narayan"
 categories: homepage
-tags: [homepage]
+tags: [homepage, posts]
 image: team2.jpeg
 ---
 
