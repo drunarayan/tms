@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Chandru"
 author: "Chandru Narayan"
-categories: homepage
-tags: [sample]
+categories: posts
+tags: [posts]
 image: amma_dru.jpeg
 ---
 
