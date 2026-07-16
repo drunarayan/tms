@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Chandru Narayan"
 categories: facts
 tags: [sample]
-image: dru.jpg
+image: dru.jpeg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Dear family! I'm Chandru. I’m a "retired" engineer/astronomer at heart turned teacher. Ever since I first took my first physics class in high school and learned to know the night sky, I have pursued engineering, mathematics, astronomy as a passion, and as a career. I am a devoted bicyclist and a "pretend" runner who loves to travel around the world to practice my hobbies. Check out [my personal website](https://www.chandrunarayan.com/) for more information on my other projects.
