@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Chandru Narayan"
 categories: documentation
 tags: [documentation, resources]
 image: m81.jpg
