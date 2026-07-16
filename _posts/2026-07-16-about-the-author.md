@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Chandru Narayan"
-categories: facts
+categories: homepage
 tags: [sample]
 image: amma_dru.jpeg
 ---

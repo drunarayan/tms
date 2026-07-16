@@ -2,7 +2,7 @@
 layout: post
 title: "About the Meenakshi School"
 author: "Chandru Narayan"
-categories: facts
+categories: homepage
 tags: [sample]
 image: tamilnadu.jpeg
 ---
