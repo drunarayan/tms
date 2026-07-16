@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'The Meenakshi School Home',  url: 'homepage'}
+- {name: 'The Meenakshi School Home',  url: 'https://drunarayan.github.io/tms'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
