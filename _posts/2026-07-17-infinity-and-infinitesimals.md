@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to The Meenakshi School!"
+title: "Numbers and Infinities!"
 author: "Chandru Narayan"
 categories: lessons
-tags: [lessons, posts]
+tags: [lessons]
 image: infi.png
 ---
 

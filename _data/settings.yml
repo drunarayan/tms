@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 #- {name: 'The Meenakshi School Home',  url: 'homepage'}
+- {name: 'Schedule',           url: 'schedule'}
 - {name: 'Lessons',            url: 'lessons'}
 - {name: 'Resources',          url: 'resources'}
 - {name: 'Posts',              url: 'posts'}
