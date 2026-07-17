@@ -18,8 +18,3 @@ author:              "Chandru Narayan"
 #feed:
 #  path: rss-feed.xml
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Documentation"
-    url: /categories/documentation/
