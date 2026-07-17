@@ -11,7 +11,7 @@ menu:
 - {name: 'Schedule',           url: 'schedule'}
 - {name: 'Lessons',            url: 'lessons'}
 - {name: 'Resources',          url: 'resources'}
-- {name: 'Posts',              url: 'posts'}
+- {name: 'About',              url: 'posts'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Contact',            url: 'contact'}
