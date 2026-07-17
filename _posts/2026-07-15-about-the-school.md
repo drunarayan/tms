@@ -11,7 +11,9 @@ The Meenakshi School has been created to support motivated students to explore t
 
 The lush green and fragile planet in a remote corner of the milky way galaxy is our mother earth. Shall we learn how it actually works? Maybe we will become better stewards of our home by doing so! 
 
-In fact that is what science is all about, it is the language by which we describe and understand the nature of things. Also, along the the way, we will learn about all the subjects you are studying at your own high school, maths, physics, chemistry, biology, art, music, and computing. Are you ready?
+In fact that is what science is all about, it is the language by which we describe and understand the nature of things. Also, along the the way, we will learn about all the subjects you are studying at your own high school, maths, physics, chemistry, biology, art, music, and computing. 
+
+Are you ready? Access the many menu items above to explore the content and lessons!
 
 
 

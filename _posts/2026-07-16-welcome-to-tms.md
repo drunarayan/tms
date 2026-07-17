@@ -9,3 +9,5 @@ image: team2.jpeg
 
 The purpose of this website is to provide a repository for all of the meenakshi school content. Access the menu items above to browse the content on this website.
 
+Are you ready? Access the many menu items above to explore the content and lessons!
+
