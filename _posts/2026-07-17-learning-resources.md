@@ -19,7 +19,7 @@ All resources you will need - physical, electronic or otherwise are listed below
 1. [The Meenakshi School (TMS) Website](https://drunarayan.github.io/tms/)
 1. [Google Meet Link](https://meet.google.com/hwo-ttfv-smv). Meetings are usually held on Saturday Mornings at 8:00 AM India Time.
 1. [TMS Slack Channel](https://themeenakshischool.slack.com) used for all communications for school work and comments
-1. [JupyterLab Google Virtual Machine](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/tmsnotebooks&branch=main&urlpath=lab/tree/tmsnotebooks/notebooks/calculate_pi/circle.ipynb?reset)
+
 
 
 
