@@ -1,13 +1,8 @@
 ---
-layout: default
-title: Home
+layout: category
+title: The Meenakshi School Home
+category: homepage
+permalink: /homepage
 ---
 
-{% assign target_page = site.pages | where: "permalink", "/homepage/" | first %}
 
-<div class="page">
-  <h1 class="page-title">{{ target_page.title }}</h1>
-  <div class="page-content">
-    {{ target_page.content }}
-  </div>
-</div>
