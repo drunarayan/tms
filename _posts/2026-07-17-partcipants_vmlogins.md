@@ -11,8 +11,10 @@ All resources you will need - physical, electronic or otherwise are listed below
 
 ## Participants & JupyterLab Logins
 
-Name                   | Role                | JupyterLab Login     | Remark
----------------------  | ------------------- | -------------------- | --------------------
+#### [Use this link to test your login](https://boyceastrows.gleeze.com)
+
+Name                   | Role               | JupyterLab Login     | Remark
+---------------------  | -------------------| -------------------- | --------------------
 Advaith                |  Student           | advaith.vk            | Create PW on 1st login
 Arvind                 |  Parent            | arvind.vk             | Create PW on 1st login
 Dhruvan                |  Student           | dhruvan.vk            | Create PW on 1st login
