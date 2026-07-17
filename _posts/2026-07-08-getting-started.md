@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Customizations to the website"
 author: "Chandru Narayan"
 categories: documentation
 tags: [documentation, resources]
