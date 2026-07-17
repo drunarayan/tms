@@ -1,9 +1,5 @@
 ---
-layout: default
+layout: home
+title: Home
 ---
 
-{% for post in site.posts %}
-  {% if post.categories contains page.category %}
-    {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
