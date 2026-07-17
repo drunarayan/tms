@@ -1,15 +1,14 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
-<div class="posts-wrapper">
-  {% for post in site.posts %}
-    {% if post.featured-post == true %}
-      <article class="post-preview">
-        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-      </article>
-    {% endif %}
-  {% endfor %}
+{% assign school_post = site.posts | where: "path", "_posts/2026-07-15-about-the-school.md" | first %}
+
+<div class="page">
+  <h1 class="page-title">{{ school_post.title }}</h1>
+  <div class="page-content">
+    {{ school_post.content }}
+  </div>
 </div>
+
