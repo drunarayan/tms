@@ -11,11 +11,12 @@ image: infi.png
 
 ![Seattle]({{ site.baseurl }}/assets/img/surds.png)
 
+1. [Numbers and Infinities Jupyter Notebooks](https://drunarayan.github.io/tmsnotebooks/notebooks/num_infi/)
+
 1. Natural Numbers
 1. Integers
 1. Rational Numbers
 1. Irrational Numbers
-1. [Numbers Jupyter Notebook]()
 
 ## Types of Infinities
 
