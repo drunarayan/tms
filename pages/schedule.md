@@ -4,7 +4,7 @@ title: Schedule & Google Meet Links
 permalink: /schedule
 ---
 
-### [Google Meet Saturday, July 18th, 8:00 AM](https://meet.google.com/hwo-ttfv-smv)
+### [Click to join Google Meet Saturday, July 18th, 8:00 AM](https://meet.google.com/hwo-ttfv-smv)
 
 ![Seattle]({{ site.baseurl }}/assets/img/seattle.jpeg)
 
