@@ -7,11 +7,11 @@ tags: [lessons]
 image: infi.png
 ---
 
+## [Numbers and Infinities Jupyter Notebooks](https://drunarayan.github.io/tmsnotebooks/notebooks/num_infi/)
+
 ## [Types of Numbers](https://www.geeksforgeeks.org/maths/types-of-numbers/)
 
 ![Seattle]({{ site.baseurl }}/assets/img/surds.png)
-
-1. [Numbers and Infinities Jupyter Notebooks](https://drunarayan.github.io/tmsnotebooks/notebooks/num_infi/)
 
 1. Natural Numbers
 1. Integers
