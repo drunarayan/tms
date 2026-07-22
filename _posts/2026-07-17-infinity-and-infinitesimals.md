@@ -21,6 +21,6 @@ image: infi.png
 ## Types of Infinities
 
 1. Countable Infinity
-2. Algebraic Infinity
-2. Uncountable Infinity
+1. Uncountable Infinity
+1. Algebraic Infinity
 
