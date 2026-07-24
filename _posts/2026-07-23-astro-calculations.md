@@ -11,7 +11,7 @@ image: smf.png
 
 We will use an image of the 2024 Solar Eclipse that I took in Waco, Texas on April 8th of that year.  I also captured a video that you can see below using the SeeStar telescope we all used during the Vigyan Karyashala Lab.
 
-[![Watch Solar Eclipse Video](https://youtube.com/shorts/WKC8G-rem-M?feature=share)]
+![Watch Solar Eclipse Video](https://youtube.com/shorts/WKC8G-rem-M?feature=share)
 
 [![Watch Video](https://youtube.com/shorts/WKC8G-rem-M?feature=share)](https://youtube.com/shorts/WKC8G-rem-M?feature=share)
 
