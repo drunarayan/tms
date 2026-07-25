@@ -25,7 +25,7 @@ image: infi.png
 1. Algebraic Infinity
 
 ## Infinite Series
-
+![Seattle]({{ site.baseurl }}/assets/img/zenos_paradox.png)
 1. Zeno's Paradox
 2. Infinite Series
 
