@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Numbers and Infinities!"
+title: "Numbers and Infinities UPDATED!"
 author: "Chandru Narayan"
 categories: lessons
 tags: [lessons]
