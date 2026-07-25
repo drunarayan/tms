@@ -27,4 +27,3 @@ image: astro.png
   </a>
 </div>
 
-### [Click this like to see a YouTube video of the Eclipsed Sun I took in 2024!](https://youtube.com/shorts/WKC8G-rem-M)
