@@ -24,3 +24,8 @@ image: infi.png
 1. Uncountable Infinity
 1. Algebraic Infinity
 
+## Infinite Series
+
+1. Zeno's Paradox
+2. Infinite Series
+
