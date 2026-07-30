@@ -30,11 +30,11 @@ image: astro.png
 
 <!-- Astrolab Measuring Tool -->
 <div style="background-color: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center; font-family: sans-serif;">
-  <h3 style="margin-top: 0; color: #2d3748;">📸 Photo Album: Live Astro Imaging Night</h3>
+  <h3 style="margin-top: 0; color: #2d3748;">📸 Measure the Sizes Astronomical Objects</h3>
   <p style="color: #4a5568; font-size: 0.95rem;">Use this Astrolab Tool to view astronomical images taken through the telescope and measuring their extents</p>
   <a href="https://www.schoolsobservatory.org/astrolab/?lvl=1" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #1a73e8; color: white; padding: 10px 20px; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     Use Astrolab Measure Tool
   </a>
 </div>
 
-## [Astro Measurements Jupyter Notebook](https://drunarayan.github.io/tmsnotebooks/notebooks/measure_astro_targets)
+## [Astro Measurements Jupyter Notebook](https://drunarayan.github.io/tmsnotebooks/notebooks/measure_astro_targets){:target="_blank" rel="noopener"}
