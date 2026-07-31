@@ -21,7 +21,19 @@ image: smf.png
   </iframe>
 </div>
 
-````We will be calculating the diameter of the Moon which eclipsed the Sun in the video above and many other Astronomical objects imaged a few days ago in Seattle. To do that we will use the following Jupyter notebook.  It will give you a procedure to first do an estimate with just pen and paper.  This is very crucial for all scientist to do approximate calculations on your bound notebook with the use of a calculator as need be.````
+````We will be calculating the diameter of the Moon which eclipsed the Sun in the video above and many other Astronomical objects imaged a few days ago in Seattle. Access this Google Photo Album Below to download your image!````
+
+<!-- Google Photos Album Card Section -->
+<div style="background-color: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center; font-family: sans-serif;">
+  <h3 style="margin-top: 0; color: #2d3748;">📸 Photo Album: Live Astro Imaging Night</h3>
+  <p style="color: #4a5568; font-size: 0.95rem;">Check out the full gallery of captured deep-sky images, equipment setups, and behind-the-scenes streams shared with India!</p>
+  <a href="https://photos.app.goo.gl/eL71wEoY7CXse871A" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #1a73e8; color: white; padding: 10px 20px; font-weight: bold; text-decoration: none; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    View Google Photos Album
+  </a>
+</div>
+
+
+````Once you have downloaded yoiur assigned astro image, we will use the following Jupyter notebook.  It will give you a procedure to first do an estimate with just pen and paper.  This is very crucial for all scientist to do approximate calculations on your bound notebook with the use of a calculator as need be.````
 
 ````We will then use the Astro measuring tool below which will measure the number of pixels from an Astro image and converting that to an angle.  Once we know that angle in degrees and convert to radians, we can calculate the actual extent of the object in km or in light years for extremely big targets like nebulae and galaxies.  You will need to write down the name and pixel sizes in your bound notebook before proceeding.````
 
