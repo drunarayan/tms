@@ -33,7 +33,7 @@ image: smf.png
 </div>
 
 
-````Once you have downloaded yoiur assigned astro image, we will use the following Jupyter notebook.  It will give you a procedure to first do an estimate with just pen and paper.  This is very crucial for all scientist to do approximate calculations on your bound notebook with the use of a calculator as need be.````
+````Once you have downloaded your assigned astro image, we will use the following Jupyter notebook.  It will give you a procedure to first do an estimate with just pen and paper.  This is very crucial for all scientist to do approximate calculations on your bound notebook with the use of a calculator as need be.````
 
 ````We will then use the Astro measuring tool below which will measure the number of pixels from an Astro image and converting that to an angle.  Once we know that angle in degrees and convert to radians, we can calculate the actual extent of the object in km or in light years for extremely big targets like nebulae and galaxies.  You will need to write down the name and pixel sizes in your bound notebook before proceeding.````
 
