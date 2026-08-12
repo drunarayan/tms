@@ -6,6 +6,7 @@ categories: lessons
 tags: [lessons]
 image: ci.png
 ---
+Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may be true ...
 
-1. Creating content for this lesson now ..
-1. Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may be true ...
+![Seattle]({{ site.baseurl }}/assets/img/ci2.png)
+### lesson under construction!
