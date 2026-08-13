@@ -8,15 +8,17 @@ image: ci.png
 ---
 ![](../assets/img/ci2.png)
 
+![](../magic_of_exponentials.pdf)
+
 ### Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may be true ...
 
 ### 📖 Interactive Lesson Worksheet
 Below is the full worksheet for our upcoming lesson. You can view it directly on this page, or download it using the link below the viewer.
 
-<iframe src="{{ site.baseurl }}/magic-of-exponentials.pdf" width="100%" height="900px" style="border: 2px solid #ddd; border-radius: 4px;">
+<iframe src="../magic_of_exponentials.pdf" width="100%" height="900px" style="border: 2px solid #ddd; border-radius: 4px;">
   This browser does not support embedding PDFs. Please download the PDF to view it.
 </iframe>
 
 <p style="text-align: center; margin-top: 15px;">
-  📥 <a href="{{ site.baseurl }}/magic-of-exponentials.pdf" download style="font-weight: bold; text-decoration: underline;">Click here to download the PDF Worksheet</a>
+  📥 <a href="../magic_of_exponentials.pdf" download style="font-weight: bold; text-decoration: underline;">Click here to download the PDF Worksheet</a>
 </p>
