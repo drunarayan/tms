@@ -10,3 +10,5 @@ Albert Einstein most certainly did NOT say "Compound Interest is the most powerf
 
 ![Seattle]({{ site.baseurl }}/assets/img/ci2.png)
 ### lesson under construction!
+
+<iframe src="{{ site.baseurl }}/assets/html/magic_of_exponentials.html" width="100%" height="500px" title="Embedded HTML"></iframe>
