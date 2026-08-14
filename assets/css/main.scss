@@ -27,3 +27,15 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+/* Global Site Override to Remove Footer Elements */
+footer, 
+.site-footer, 
+.footer {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
