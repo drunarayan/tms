@@ -60,7 +60,7 @@ We can also make this formula to apply to all numbers generally writing it this 
 
 **4. To see how we can model (calculate) that, let us create a Series with 16 terms for 16 squares and sum all of the terms (sum of all the grains in all 16 squares):**
 
-Note that we are giving the Series Sum a single *name* or *variable* on the *LHS* (left-hand-side of the equation) $S_{16}$ and setting it equal to the actual sum on the *RHS* (right-hand-side of equation). This is what we commonly do in **Algebra**
+Note that we are giving the Series Sum a single *name* or *variable* on the *LHS* (left-hand-side of the equation) $S_{16}$ and setting it equal to the actual sum on the *RHS* (right-hand-side of equation). 
     
 > $ S_{16} = 1\ +\ 2\ +\ 4\ +\ 8\ +\ 16\ +\ 32\ +\ 64\ +\ ...\ \ +\ 32,768 $
 
