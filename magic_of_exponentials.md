@@ -33,9 +33,9 @@
 
 ...
 
-**3. This can be modeled as a series exponential numbers as follows:** 
+**3. The number of rice kernels in any given (single) square can be modeled or calculated. To do that we find an equation or formula to directly compute it. We will use exponential numbers (powers of 2) for this :** 
 
- *[note that ${2}^0 = 1 $ or $ {(any\ number)}^0 = 1 $]*
+ > *note that ${2}^0 = 1 $ or $ {(any\ number)}^0 = 1 $* Also note that $2^1 = 2$ or $ {(any\ number)}^1 = {(same\ number)}$
 
 | | | | |
 | :---: | :---: | :---: | :---: |
@@ -44,41 +44,70 @@
 | **??** | **??** | **??** | **??** |
 | **??** | **??** | **??** | $ 2^{15} $ | 
     
- why are we missing $2^{16}$ above ?
+ > * Why are we missing $2^{16}$ above?  
+ > * Can you see how you can, for instance, calculate the number of rice kernels in the 7th square or the 16th square? (First figure out what exponent of $2$ that you will need and use your calculator to find it) 
+ 
+ Let us write this as a equation or formula.  A *variable* on the *LHS* (left-hand-side of the equation) $C_{16}$ and setting it equal to the number of rice kernels on the *RHS* (right-hand-side of equation). This is what we commonly do in **Algebra**.
 
-**4. Now, let us create a Series with 16 terms for 16 squares and sum all of the terms:**
-    
- $ S_{16} = 1\ +\ 2\ +\ 4\ +\ 8\ +\ 16\ +\ 32\ +\ 64\ +\ ...\ \ +\ 32,768 $
+> $ C_{7} = 2^{6} $ where $C_{7}$ is the count of rice kernels in the $7$ th square
 
-**5. You can also write the 16-term series using exponentials as (hints: $2^0 = 1$ and $2^1 = 2$):**
+We can also make this formula to apply to all numbers generally writing it this way!  Also note how this equation have been given a letter label so that we can easily refer to it later.
+
+
+> $ \textcircled{A}\; C_{n} = 2^{n-1} $ where $C_{n}$ is the count of rice kernels in the $n$ th square
+
+ However, to solve the Chaturanga problem, we will need the Sum of the rice kernels in all of the squares!
+
+**4. To see how we can model (calculate) that, let us create a Series with 16 terms for 16 squares and sum all of the terms (sum of all the grains in all 16 squares):**
+
+Note that we are giving the Series Sum a single *name* or *variable* on the *LHS* (left-hand-side of the equation) $S_{16}$ and setting it equal to the actual sum on the *RHS* (right-hand-side of equation). This is what we commonly do in **Algebra**
     
- $ S_{16} =\ 2^0\ +\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ ...\ \ +\ 2^{14}\ +\ 2^{15} $ why are we missing the $2^{16}$ term?
+> $ S_{16} = 1\ +\ 2\ +\ 4\ +\ 8\ +\ 16\ +\ 32\ +\ 64\ +\ ...\ \ +\ 32,768 $
+
+**5. You can also write the 16-term (4x4) series using exponentials as (hints: $2^0 = 1$ and $2^1 = 2$):**
+    
+ > $ S_{16} =\ 2^0\ +\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ ...\ \ +\ 2^{14}\ +\ 2^{15} $ why are we missing the $2^{16}$ term?
 
 **6. Can you write out the full Series for a 8x8 square chessboard in powers of 2? (you will need 64 terms):**
 
- $\textcircled{1}\;S_{64} =\ 2^0\ +\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ ...\ \ +\ 2^{62}\ +\ 2^{63}$
+Note that "$\dots$" is a shorcut for the missing multiple terms without having to write them all out! Also note how this equation have been given a number label $\textcircled{1}$ so that we can easily refer to it later.
 
-**7. Multiply equation $ \textcircled{1}$ above by $2$ on both sides of the $=$ sign:**
+ > $\textcircled{1}\;S_{64} =\ 2^0\ +\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ ...\ \ +\ 2^{62}\ +\ 2^{63}$
 
- $ \textcircled{2}\;2*S_{64} =\ 2*2^0\ +\ 2*2^1\ +\ 2*2^2\ +\ 2*2^3\ +\ 2*2^4\ +\ ...\ \ +\ 2*2^{62}\ +\ 2*2^{63}$
+**7. Multiply equation $ \textcircled{1}$ above by $2$ on both sides (*LHS & RHS*) of the $=$ sign:**
+
+Note that since the RHS has multiple terms which are summed, we have to multiply each term in the sum by $2$
+
+ > $ \textcircled{2}\;2*S_{64} =\ 2*2^0\ +\ 2*2^1\ +\ 2*2^2\ +\ 2*2^3\ +\ 2*2^4\ +\ ...\ \ +\ 2*2^{62}\ +\ 2*2^{63}$
     
 **8. Simplify equation $ \textcircled{2}$ above to get (hints: $2*2^0 = 2^{1+0} = 2^1$ and $2*2^3 = 2^{1+3} = 2^4$):**
 
- $ \textcircled{3}\;2*S_{64} =\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ 2^5\ +\ ...\ \ +\ 2^{63}\ +\ 2^{64} $
+ > $ \textcircled{3}\;2*S_{64} =\ 2^1\ +\ 2^2\ +\ 2^3\ +\ 2^4\ +\ 2^5\ +\ ...\ \ +\ 2^{63}\ +\ 2^{64} $
 
 **9. Subract equation $ \textcircled{1}$ from equation $\textcircled{3}$ to get $\textcircled{3}-\textcircled{1}$ as follows (shifted terms in equation $\textcircled{3}$ for lining up):** 
 
-| | | | | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $\textcircled{3}\,2*S_{64} \,=$ | *(shift)*$+$ | $2^1 \,+$ | $2^2 +$ | $2^3 +$ | $2^4 +$ | $2^5+ $ | $... $ | $2^{63}+ $ | $2^{64} $ | |
-| $\textcircled{1}\,S_{64} \,=$ | $2^0 \,+$ | $2^1 \,+$ | $2^2 +$ | $2^3 +$ | $2^4 +$ | $... $ | $2^{62}+ $ | $2^{63} $ | |
-|$\textcircled{4}\,S_{64}=\;\;\;\;\;\;\;$ | $-1 +$ |$0+$ | | | | | | | $2^{64} $|
+Note that we are now manipulating entire equations or formulas. This is advanced maths!
+
+> | | | | | | | | | | | |
+> | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+> | $\textcircled{3}\,2*S_{64} \,=$ | *(shift)*$+$ | $2^1 \,+$ | $2^2 +$ | $2^3 +$ | $2^4 +$ | $2^5+ $ | $... $ | $2^{63}+ $ | $2^{64} $ | |
+> | $\textcircled{1}\,S_{64} \,=$ | $2^0 \,+$ | $2^1 \,+$ | $2^2 +$ | $2^3 +$ | $2^4 +$ | $... $ | $2^{62}+ $ | $2^{63} $ | |
+> |$\textcircled{4}\,S_{64}=\;\;\;\;\;\;\;$ | $-1 +$ |$0+$|$0+$ |$0+$ |$0+$ |$0+$ |$0+$ |$0+$ | $2^{64} $|
  
 **10. Simplify equation $ \textcircled{4}$ above to get $ \textcircled{5}$ which represents the number of rice kernels in square 64 of the chess board.**
 
- $ \textcircled{5}\;S_{64} = 2^{64} - 1 $
+ > $ \textcircled{5}\;S_{64} = 2^{64} - 1 $  This is our formula for calculating the total amount of rice in the entire board!
 
-### Computing that that in your calculator will give you a **HUMUNGOUS** number - 18 followed by another 18 decimals or 18.5 quntillion rice kernels!!
+ > What if we had smaller (3x3) or bigger (9x9) chess boards?
+ > Can we write a general formula for for chess boards with (nxn) squares?  Yes we can!  Can you guess it?
+
+  > $ \textcircled{B}\;S_{n} = 2^{n} - 1 $  This is our formula for calculating the total sum amount of rice in any $ n \times n $ board!
+ 
+  > Compare this with $\textcircled{A}\;C_{n} = 2^{n-1} $ where $C_{n}$ is the count of rice kernels in the $n$ th square. There is a very subtle but important difference, can you spot it? This is the nature of all Mathematics!
+
+### Computing the answer for the Chaturanga (8x8=64) sum of rice kernels in your calculator will give you a **HUMUNGOUS** number - 18 followed by another 18 decimals or 18.5 quntillion rice kernels!! 
+
+> Note that we can use formula $ \textcircled{B}\;S_{n} = 2^{n} - 1 $ where $n = 64$
 
  **$ Total\ Amount\ of\ Rice=(2^{64}-1)=\mathbf{18,446,744,073,709,551,615}\text{\ kernels}$**
 
@@ -92,14 +121,18 @@
     3. There are 1000 grams in a kg
     4. There are 1000 kg in a metric tonne
 
-### Let us work on this together in class ...
+### Let us work on te above together in class ...
 
-## 🌾 1.2  Homework Question/Problem  
-* Would you rather receive **1 Lakh rupees (₹100,000) every day for a whole month**, or **10 paise (₹0.10) that doubles each day for a month?**
-* Hint: Convert 10 paise to  0.1 rupees and do exactly the same process we did in calculating # of rice grains. 
-* Another Hint: Same formula ($S_{64} = 2^{64} -1$) will work, except you have to change 64 to another number
-* Examine plot of results below and write down your thoughts about it.
-* We will discuss all of this the following week!
+## 🌾 1.2  Homework Question/Problem in Finance
+
+**Problem:** Would you rather receive **1 Lakh rupees (₹100,000) every day for a whole month**, or **10 paise (₹0.10) that doubles each day for a month?** How much total money will you have on the 30th day?
+* **Hint for 1st option**: The answer can be calculated very easily: **1 Lakh rupees (₹100,000) every day** for 30 days - simply a straight multiplcation will do!
+* **Hints for 2nd option**: 
+    - Convert 10 paise to  0.1 rupees and do exactly the same process we did in calculating # of rice grains. 
+    - Use the same formula ($ \textcircled{B}\;S_{n} = 2^{n} -1$ will work, except you have to substitute $n$ with a number.
+* **Examine** a comparison plot of the 2 options below and **write** down your thoughts about it.
+* ![plot]()
+* **We will discuss all of this the followiupcomingng weeks**!
 
 
 
