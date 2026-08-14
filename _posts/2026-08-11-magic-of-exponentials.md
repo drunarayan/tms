@@ -8,7 +8,7 @@ image: ci.png
 ---
 ![](../assets/img/ci2.png)
 
-#### Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may be true ...
+#### Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may certainly be true ...
 
 ### 📖 Interactive Lesson Worksheet
 Below is the full worksheet for our upcoming lesson. You can view it directly on this page, or download it using the link below the viewer.
