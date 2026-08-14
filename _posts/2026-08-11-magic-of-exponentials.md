@@ -6,7 +6,7 @@ categories: lessons
 tags: [lessons]
 image: ci.png
 ---
-![]({{ site.baseurl }}/ci2.png)
+![]({{ site.baseurl }}/assets/img/ci2.png)
 
 #### Albert Einstein most certainly did NOT say "Compound Interest is the most powerful force in the Universe". Still, it may certainly be true ...
 
