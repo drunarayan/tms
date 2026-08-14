@@ -1,7 +1,7 @@
 # Magic of Exponentials  
   
 ## 🌾 Module 1: The ancient Indian story of the Chaturanga  
-## 1.1 The Legend of Chaturanga  
+##  🌾 1.1 The Legend of Chaturanga  
 ### In ancient India, the inventor of chess (Chaturanga) presented his game to the ruling king. As a reward, the inventor requested a seemingly trivial prize:  
 * **1 grain of rice** on the first square of the board.  
 * **2 grains** on the second square, **4 grains** on the third, **8 grains** on the fourth, and so on.  
@@ -83,7 +83,7 @@
  **$ Total\ Amount\ of\ Rice=(2^{64}-1)=\mathbf{18,446,744,073,709,551,615}\text{\ kernels}$**
 
 
-### How much rice is that when compared to the entire annual rice production of India? How many years will it take to produce that much rice?
+### Just how much rice is that when compared to the entire annual rice production of India? How many years will it take to produce that much rice?
 
 **Here is some pertinent information for you to calculate this**
 
@@ -91,3 +91,15 @@
     2. Indian Annual Rice Production = 150 million metric tonnes
     3. There are 1000 grams in a kg
     4. There are 1000 kg in a metric tonne
+
+### Let us work on this together in class ...
+
+## 🌾 1.2  Homework Question/Problem  
+* Would you rather receive **1 Lakh rupees (₹100,000) every day for a whole month**, or **10 paise (₹0.10) that doubles each day for a month?**
+* Hint: Convert 10 paise to  0.1 rupees and do exactly the same process we did in calculating # of rice grains. 
+* Another Hint: Same formula ($S_{64} = 2^{64} -1$) will work, except you have to change 64 to another number
+* Examine plot of results below and write down your thoughts about it.
+* We will discuss all of this the following week!
+
+
+
