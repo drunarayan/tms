@@ -28,14 +28,44 @@ $rss-color: #ff6600;
 
 @import "-sections-dir";
 
-/* Global Site Override to Remove Footer Elements */
+/* ==========================================================================
+   THE MEENAKSHI SCHOOL - GLOBAL CUSTOM OVERRIDES
+   ========================================================================== */
+
+/* 1. COMPLETELY WIDEN THE SCHEDULE AND INDIVIDUAL POST LAYOUTS */
+.post, 
+.post-content, 
+.schedule, 
+.page-content,
+article {
+    max-width: 1100px !important; /* Force it to match your wide layouts */
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 0 20px !important;
+}
+
+/* Ensure images and embedded iframes expand nicely inside the wide layouts */
+.post-content iframe, 
+.post-content img,
+article iframe {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+/* 2. COMPLETELY HIDE THE FOOTER & "YOU MAY ALSO LIKE" SECTIONS SITEWIDE */
 footer, 
 .site-footer, 
-.footer {
+.footer, 
+.read-more, 
+.suggested-posts,
+.related-posts {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
     height: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
+}
 }
 
