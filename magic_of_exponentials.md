@@ -132,7 +132,7 @@ Note that we are now manipulating entire equations or formulas. This is advanced
     - Use the same formula ($ \textcircled{B}\;S_{n} = 2^{n} -1$ will work, except you have to substitute $n$ with a number.
 * **Examine** a comparison plot of the 2 options below and **write** down your thoughts about it.
 * ![plot](assets/img/paise_doubling.png)
-* **We will discuss all of this the upcoming weeks**!
+* **We will plan to discuss all of this in the upcoming weeks**!
 
 
 
