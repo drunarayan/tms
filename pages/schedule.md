@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: Schedule & Google Meet Links & Recordings
 permalink: /schedule
 ---
