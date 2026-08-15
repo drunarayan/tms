@@ -28,6 +28,7 @@ $rss-color: #ff6600;
 
 @import "-sections-dir";
 
+
 /* ==========================================================================
    THE MEENAKSHI SCHOOL - GLOBAL CUSTOM OVERRIDES
    ========================================================================== */
@@ -37,6 +38,8 @@ $rss-color: #ff6600;
 .post-content, 
 .schedule, 
 .page-content,
+.page,
+main,
 article {
     max-width: 1100px !important; /* Force it to match your wide layouts */
     width: 100% !important;
@@ -45,15 +48,19 @@ article {
     padding: 0 20px !important;
 }
 
-/* Ensure images and embedded iframes expand nicely inside the wide layouts */
-.post-content iframe, 
+/* 2. FORCE ALL IMAGES AND IFRAMES ON EVERY PAGE/POST TO STRETCH FULL WIDTH */
+img,
+iframe,
 .post-content img,
-article iframe {
+.post-content iframe,
+.page img,
+.page iframe {
     max-width: 100% !important;
     width: 100% !important;
+    height: auto !important; /* Preserves photo aspect ratios perfectly */
 }
 
-/* 2. COMPLETELY HIDE THE FOOTER & "YOU MAY ALSO LIKE" SECTIONS SITEWIDE */
+/* 3. COMPLETELY HIDE THE FOOTER & "YOU MAY ALSO LIKE" SECTIONS SITEWIDE */
 footer, 
 .site-footer, 
 .footer, 
