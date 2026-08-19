@@ -37,7 +37,7 @@ This lesson explores how the exponential function $y = a \cdot b^x$ governs fund
   $$\text{Value}_{\text{Day } 30} = 0.10 \times 2^{29} = 0.10 \times 536,870,912 = 53,687,091.20\text{ ₹}$$
 * **Cumulative 30-Day Account Balance:**
   $$\text{Total Balance} = \sum_{k=0}^{29} (0.10 \times 2^k) = 0.10 \times (2^{30} - 1) = 107,374,182.30\text{ ₹}$$
-* **Takeaway:** Over $107\text{ Million ₹}$ (or **$10.74\text{ Crores}$**) accumulated from a starting balance of just 10 paise!
+* **Takeaway:** Over $107\text{ Million ₹}$ (or **$10.74\text{ Crores}$**) accumulated from a starting balance of just 10 paise and doubling it for 30 days!
 
 ---
 
@@ -48,4 +48,3 @@ This lesson explores how the exponential function $y = a \cdot b^x$ governs fund
 | **Ancient Algorithmic Growth** | $y = 2^x$ | $b = 2 > 1$ | Outstrips global planetary supply ($18.4\text{ quintillion}$) |
 | **Nuclear Medicine (Decay)** | $y = \left(\frac{1}{2}\right)^{x/6}$ | $b = 0.5 < 1$ | Clears $93.75\%$ of tracer radiation within $24\text{ hours}$ |
 | **Financial Compounding** | $y = 0.10 \cdot (2)^x$ | $b = 2 > 1$ | Converts $10\text{ paise}$ into $>10.7\text{ Crores}$ in $30\text{ days}$ |
-| **Cosmological Redshift** | $\lambda_{\text{obs}} = \lambda_{\text{rest}}(1 + z)$ | $1 + z = 1.158$ | Shifts photons $2.4\text{B light-years}$ across expanding space |
