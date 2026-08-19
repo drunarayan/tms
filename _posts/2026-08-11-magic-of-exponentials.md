@@ -14,11 +14,19 @@ image: ci.png
 Below is the full worksheet for our upcoming lesson. You can view it directly on this page, or download it using the link below the viewer.
 
 <iframe src="{{ site.baseurl }}/magic_of_exponentials.pdf#view=FitH&navpanes=0" width="100%" height="900px" style="border: 2px solid #ddd; border-radius: 4px;">
-  This browser does not support embedding PDFs. Please download the PDF to view it.
+  This browser does not support embedding PDFs. Please download the  Magic of Exponentials Lesson PDF to view it.
 </iframe>
 
 <p style="text-align: center; margin-top: 15px;">
-  📥 <a href="{{ site.baseurl }}/magic_of_exponentials.pdf" download style="font-weight: bold; text-decoration: underline;">Click here to download the PDF Worksheet</a>
+  📥 <a href="{{ site.baseurl }}/magic_of_exponentials.pdf" download style="font-weight: bold; text-decoration: underline;">Click here to download the Magic of Exponentials Lesson PDF Worksheet</a>
+</p>
+
+<iframe src="{{ site.baseurl }}/magic-of-exponentials-lesson-plan-summary.pdf#view=FitH&navpanes=0" width="100%" height="900px" style="border: 2px solid #ddd; border-radius: 4px;">
+  This browser does not support embedding PDFs. Please download the  Magic of Exponentials Summary PDF to view it.
+</iframe>
+
+<p style="text-align: center; margin-top: 15px;">
+  📥 <a href="{{ site.baseurl }}/magic-of-exponentials-lesson-plan-summary.pdf" download style="font-weight: bold; text-decoration: underline;">Click here to download the  Magic of Exponentials Summary PDF Worksheet</a>
 </p>
 
 
