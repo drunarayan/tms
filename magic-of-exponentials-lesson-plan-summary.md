@@ -18,6 +18,20 @@ This lesson explores how the exponential function $y = a \cdot b^x$ governs fund
 
 ## 2. Exponential Decay: Medical Physics & Nuclear Tracers
 * **The Concept:** While growth multiplies by $b > 1$, decay scales down by $0 < b < 1$. Nuclear medicine uses short-lived radioactive isotopes like **Technetium-99m ($^{99\text{m}}\text{Tc}$)** for SPECT imaging because they clear quickly from the human body.
+
+Radioactive tracers are special chemical compounds made by attaching a radioactive atom like Technetium-99m to a natural body molecule like sugar or protein. Once inside the body through an injection, drink, or breath, they follow normal biological paths, travel to specific active tissues, and emit safe, detectable energy signals that external scanners turn into detailed medical images.
+
+* **What are Tracers and How do they Move and Work**
+  * **Delivery:** A patient receives the tracer via an injection, swallows it, or inhales it into the lungs.
+  * **Travel:** The tracer mixes with blood or fluid and moves to target organs or high-energy cells.
+  * **Cell Action:** Diseased or fast-working cells—like growing tumors or healing bone—absorb more or less of the tracer than healthy cells do.
+  * **Signal Emission:** As the unstable atoms break down over time, they give off tiny rays of energy (gamma rays or positrons) that pass safely out through the skin.
+
+* **Detection and Removal**
+  * **Scanning:** Special external tools like a gamma camera or PET scan catch the escaping energy signals.
+  * **Mapping:** Computers turn those signals into a map showing "hot spots" of high activity or "cold spots" of low activity.
+  * **Leaving the Body:** The radioactive material loses its power quickly and leaves the body naturally through urine or sweat within a few hours or days.
+
 * **The Decay Equation:**
   $$N(t) = N_0 \left(\frac{1}{2}\right)^{\frac{t}{t_{1/2}}}$$
   * $N_0$: Initial administered dose
