@@ -13,7 +13,8 @@ JUL-25 8:00 AM (India)| [Zeno's Paradox & Infinite Series](https://drunarayan.gi
 AUG-01 8:00 AM (India)| [Estimate Astronomical Distances](https://drunarayan.github.io/tms/astro) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1_qOwhqaalJd_zAPfbb6lkVMWFYp-FHf-/view?usp=sharing)
 AUG-16 8:00 AM (India) AUG-15 7:30 PM (Seattle) note change due to Indian Independence Day| [Magic of Exponentials](https://drunarayan.github.io/tms/magic-of-exponentials) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/16ERFORKs7ejguRWLJqlOveXQWzl1yTEl/view?usp=sharing)
 AUG-22 8:00 AM (India) AUG-21 7:30 PM (Seattle)| [Magic of Exponentials Wrap-Up](https://drunarayan.github.io/tms/magic-of-exponentials-wrap-up) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1rVJ9sdF4NJsgUD_Nr9rl3gm_xgsqVzYl/view?usp=sharing)
-OCT-17 8:00 AM (India) OCT-16 7:30 PM (Seattle) AFTER 1-MONTH BREAK| [Change is Everything - Slope - Rise - Run](https://drunarayan.github.io/tms/magic-of-exponentials-wrap-up) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording TBA]()
+OCT-17 8:00 AM (India) OCT-16 7:30 PM (Seattle) AFTER 1-MONTH BREAK| [Review/Catch-up & Astro Measurements](https://drunarayan.github.io/tms/astro-calculations) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1092r3_AS05ybjBJj-CqGH4O1rcmzGVHR/view)
+OCT-24 8:00 AM (India) OCT-23 7:30 PM (Seattle)| [Infinetisamals & Limits- Beginnings of Calculus](https://drunarayan.github.io/tms/rates-of-change) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording TBA]()
 
 
 <img src="{{ site.baseurl }}/assets/img/seattle.jpeg" style="width: 100%; max-width: 1100px; height: auto; margin: 20px 0; display: block;" alt="Seattle">
