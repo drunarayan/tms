@@ -7,5 +7,5 @@ tags: [resources]
 image: typewriter-type-fast.gif
 ---
 
-## [JupyterLab - Click here Wake Up!](https://drunarayan.github.io/wake-vm/)
+## [JupyterLab - Click here Wake Up!](https://drunarayan.github.io/tms/wake-vm/)
 
