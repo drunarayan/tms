@@ -6,8 +6,6 @@ categories: lessons
 tags: [lessons]
 image: speed_dist.png
 ---
-![]({{ site.baseurl }}/assets/img/speed_dist.png)
-
 <!-- Calcukus Lesson 1 Jupyter Notebook -->
 <div style="background-color: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center; font-family: sans-serif;">
   <h3 style="margin-top: 0; color: #2d3748;">📸 Complete this Jupyter Notebook for Calculus Lesson 1</h3>
