@@ -8,6 +8,10 @@ image: slopes.png
 ---
 <!-- Functions & Slopes Basics -->
 
+## Functions and Slopes using Geogebra
+
+Dear all.  I did not get the feeling that we did very well last session. So,this time I am teaching a even more basic lesson in Functions and slopes.  
+
 <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
   <iframe 
     src="https://www.geogebra.org/classic/ukpbyjzt?embed" 
