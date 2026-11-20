@@ -12,17 +12,6 @@ image: slopes.png
 
 Dear all.  I did not get the feeling that we did very well last session. So,this time I am teaching a even more basic lesson in Functions and slopes.  
 
-<div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
-  <iframe 
-    src="https://www.geogebra.org/classic/ukpbyjzt?embed" 
-    width="100%" 
-    height="600" 
-    allowfullscreen 
-    style="border: 1px solid #e4e4e4; border-radius: 4px;" 
-    frameborder="0">
-  </iframe>
-</div>
-
 <div style="position: relative; width: 100%; max-width: 1000px; margin: 0 auto;">
     <iframe 
     src="https://www.geogebra.org/classic/m7mpsdd2?embed" 
