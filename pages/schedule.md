@@ -18,7 +18,7 @@ OCT-24 8:00 AM (India) OCT-23 7:30 PM (Seattle)| [Beginnings of Calculus - Funct
 OCT-31 8:00 AM (India) OCT-30 7:30 PM (Seattle)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Vum4R8Mm8hHuTJu7s4rwpZIzu7yBbW8y/view?usp=sharing)
 NOV-13 8:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1KnrPvY5xjV5DPgwi2-ad5h07M4q1CBb0/view?usp=sharing)
 NOV-20 9:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Z-sn-6ESNCg1B0cAi94XF1Ixt1Lp5CLI/view?usp=sharing/view?usp=sharing)
-NOV-27 9:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Z-sn-6ESNCg1B0cAi94XF1Ixt1Lp5CLI/view?usp=sharing/view?usp=sharing)
+NOV-27 Class Date and Time subject to change based on phone discussion with parents| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |Meet Recording TBA
 
 
 <img src="{{ site.baseurl }}/assets/img/seattle.jpeg" style="width: 100%; max-width: 1100px; height: auto; margin: 20px 0; display: block;" alt="Seattle">
