@@ -17,6 +17,8 @@ OCT-17 8:00 AM (India) OCT-16 7:30 PM (Seattle) AFTER 1-MONTH BREAK| [Review/Cat
 OCT-24 8:00 AM (India) OCT-23 7:30 PM (Seattle)| [Beginnings of Calculus - Functions](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1uKtbDEmDAzqOgX53gN_W9BZfsBeK8WG4/view?usp=sharing)
 OCT-31 8:00 AM (India) OCT-30 7:30 PM (Seattle)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Vum4R8Mm8hHuTJu7s4rwpZIzu7yBbW8y/view?usp=sharing)
 NOV-13 8:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1KnrPvY5xjV5DPgwi2-ad5h07M4q1CBb0/view?usp=sharing)
+NOV-20 9:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Z-sn-6ESNCg1B0cAi94XF1Ixt1Lp5CLI/view?usp=sharing/view?usp=sharing)
+NOV-27 9:00 AM (India)| [Beginnings of Calculus - Functions continued](https://drunarayan.github.io/tms/calculus_lesson1) | [Meet Link](https://meet.google.com/hwo-ttfv-smv) |[Meet Recording](https://drive.google.com/file/d/1Z-sn-6ESNCg1B0cAi94XF1Ixt1Lp5CLI/view?usp=sharing/view?usp=sharing)
 
 
 <img src="{{ site.baseurl }}/assets/img/seattle.jpeg" style="width: 100%; max-width: 1100px; height: auto; margin: 20px 0; display: block;" alt="Seattle">
